@@ -38,7 +38,7 @@ To use the application:
 To set up the development environment:
 
 1. **Android Studio**: Ensure you have Android Studio installed.
-2. **Clone the Repository**: `git clone https://github.com/your-username/health-monitoring-app.git`
+2. **Clone the Repository**: `git clone https://github.com/your-username/Health-Tracker-App.git`
 3. **Open in Android Studio**: Open the project in Android Studio.
 4. **Build and Run**: Build the project and run it on your Android device.
 
